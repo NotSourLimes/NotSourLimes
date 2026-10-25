@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1>How it's going: This was supposed to be a small project...</h1>
+<h3>MSP by day. Unmanaged ADHD curiosity after hours.</h3>
 
-<!--
-**NotSourLimes/NotSourLimes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧠 Unravelling software architecture is a drug. The decisions, the assumptions, the “ah, that's why” moment. The understanding **is** the fun.
+- 🛠️ Development used to be the day job. These days, my own projects follow the “because I want to” roadmap.
+- 🤖 Codex handles much of the implementation. I bring the direction, the testing, and a steady supply of “hang on…”.
+- 🔌 Servers, networks, simulation, and wiring real controls into virtual things, wiring is fun...
 
-Here are some ideas to get you started:
+### Currently on the bench
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Kintra** — a communications app with some personality.
+- **OpenEmergency** — Emergency 4. Same game, new engine.
+- **The homelab** — a constantly changing practical learning environment with an overly exuberant electricity bill.
+
+### Familiar territory
+
+[![JavaScript, React, Docker, Linux and Git](https://skillicons.dev/icons?i=js,react,docker,linux,git)](https://skillicons.dev)
