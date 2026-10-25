@@ -14,4 +14,4 @@
 
 ### Familiar territory
 
-[![JavaScript, React, Docker, Linux and Git](https://skillicons.dev/icons?i=js,react,docker,linux,git)](https://skillicons.dev)
+[![JavaScript, React, Docker, Linux and Git](https://skillicons.dev/icons?i=html,js,nodejs,react,docker,linux,git,azure,cloudflare,mongodb,mysql,postman)](https://skillicons.dev)
